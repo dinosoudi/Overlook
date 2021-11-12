@@ -1,5 +1,5 @@
 
-### Features
+### Características
 
 -Debe registrarse un usuario (ingresando una tarjeta de credito o debito).
 -El usuario registrado puede visualizar 4 opciones/botones: Comidas, Botanas, Bebidas y Películas.
