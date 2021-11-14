@@ -1,13 +1,19 @@
 
 ### Características
 
-- Debe registrarse un usuario (ingresando una tarjeta de credito o debito).
-- El usuario registrado puede visualizar 4 opciones/botones: Comidas, Botanas, Bebidas y Películas.
-- El usuario puede entrar en cualquiera de estas opciones y elegir una o más opciones  del menú de comidas, de bebidas, botanas o elegir qué película le gustaría ver, horarios disponibles, asiento disponible, si es tiene opción 3D y sus respectivos costos.
-- El usuario puede pagar los servicios y productos, reservando su asiento y su boleto (el boleto se podría cambiar por un código, así ahorrando algo de papel).
+- Solicitar un usuario para comprar, de lo contrario hay que registrarse (ingresando nombre, apellidos, email, dirección, teléfono, etc.).
+
+- El usuario puede entrar a la opción de películas, escoger cuál le gustaría ver y posteriormente reservar su boleto, una vez reservado puede acceder a las opciones para escoger las botanas y bebidas que quiera.
+
+- Implementar un sistema de prioridades para atender primero a las personas que compraron un boleto.
+
+- El usuario puede pagar los servicios y productos al terminar de escogerlos (el boleto se podría cambiar por un código, evitando el uso de papel), ingresando una tarjeta de débito o crédito o también con la opción de pagarlo en la sucursal con efectivo.
+
+- Debe haber un control de inventario de la sucursal.
+
 
 # Overlook
-Proyecto de AYDSC de un sistema para un cine, donde eliges comidas, bebidas y boletos.
+Proyecto de AYDSC de un sistema para un cine donde puedes elegir la pelicula, botanas y bebidas de tu preferencia.
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
